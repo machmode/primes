@@ -39,7 +39,7 @@ All plots are saved to a `plots/` subdirectory as PNG images, rendered white-on-
 
 The program prints:
 - Total count of primes found by the sieve
-- The first 20 and last 5 primes (comma-formatted)
+- The first 20 and last 5 primes
 - Miller-Rabin primality checks on a few large numbers
 
 ## Building and running
