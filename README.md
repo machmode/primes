@@ -2,6 +2,11 @@
 
 A Rust workspace for generating and visualising prime numbers.
 
+## Limits
+
+Currently capped at 10 million but set the 'max' variable as needed in 'fn main'.
+This code is reasonably quick.
+
 ## Crates
 
 ### mrbmsieve
