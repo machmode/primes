@@ -2,11 +2,6 @@
 
 A Rust workspace for generating and visualising prime numbers.
 
-## Limits
-
-Currently capped at 10 million but set the 'max' variable as needed in 'fn main'.
-This code is reasonably quick.
-
 ## Crates
 
 ### mrbmsieve
@@ -46,6 +41,11 @@ The program prints:
 - Total count of primes found by the sieve
 - The first 20 and last 5 primes
 - Miller-Rabin primality checks on a few large numbers
+
+## Config
+
+For demonstration the prime search capped at 10 million. Just set the 'max' variable as needed in 'fn main'.
+(this will be moved out of the code and made user configurable in future).
 
 ## Building and running
 
