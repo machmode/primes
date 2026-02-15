@@ -44,8 +44,7 @@ The program prints:
 
 ## Config
 
-For demonstration the prime search capped at 10 million. Just set the 'max' variable as needed in 'fn main'.
-(this will be moved out of the code and made user configurable in future).
+For demonstration purposes the prime search is capped at 10 million. The code is quite fast. Just set the 'max' variable as needed in 'fn main' (this will be moved out of the code and made user configurable in future).
 
 ## Building and running
 
