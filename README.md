@@ -2,6 +2,8 @@
 
 A Rust workspace for generating and visualising prime numbers.
 
+Code in PoC grade so caveat exemptor...
+
 ## Crates
 
 ### mrbmsieve
